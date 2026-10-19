@@ -1,13 +1,6 @@
 # MetodosIterativos-Jacobi-GaussSeidel
 # Práctica: Métodos Iterativos (Jacobi y Gauss-Seidel)
 
-**Asignatura:** Métodos Numéricos  
-**Alumno:** Marco Antonio Pavia Flores  
-**Docente:** Víctor Hugo Vásquez Herrera  
-**Institución:** Instituto Tecnológico Superior de Xalapa (ITSX)
-
----
-
 ## 1. Descripción y Estructura Modular del Proyecto
 El proyecto está desarrollado en Java respetando una arquitectura modular de tres componentes que separa la definición del sistema, la lógica de los algoritmos iterativos y las clases de ejecución:
 
